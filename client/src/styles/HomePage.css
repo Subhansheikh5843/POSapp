@@ -1,0 +1,40 @@
+#myVideo{
+  position: fixed;
+
+  min-height: 100%;
+  min-width: 100%;
+ 
+ 
+}
+
+.card{
+  width: 360px !important;
+}
+
+.content{
+  position: fixed;
+  top: 100px;
+  left: 70%;
+  right: 5%;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  width: 100%;
+  padding: 15px;
+}
+
+.myBtn{
+  width: 50px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 10px 40px;
+  border: none;
+  background-color: #000;
+  color: white;
+  cursor: pointer;
+}
+
+.myBtn:hover{
+  background-color: white;
+  color: #000;
+}
